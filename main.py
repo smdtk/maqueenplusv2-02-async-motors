@@ -1,6 +1,11 @@
 direction = 0
 distance = 0
 DFRobotMaqueenPlusV2.init()
+"""
+
+Due to faulty Async motors
+
+"""
 
 def on_forever():
     global distance, direction

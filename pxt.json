@@ -1,5 +1,5 @@
 {
-    "name": "MaqueenPlusV2-02-L100R95",
+    "name": "MaqueenPlusV2-02-async.motors",
     "description": "",
     "dependencies": {
         "core": "*",
